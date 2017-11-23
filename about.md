@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 <article class="post">
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error excepturi asperiores accusamus ut ex tempora molestiae dicta totam ipsa rerum illum, magnam, consequatur a culpa amet ad officiis nihil omnis! Suscipit expedita, ex, delectus ipsam eaque minus modi corporis mollitia cumque adipisci aperiam temporibus magnam. Rerum rem beatae dolorem maiores!</p>
