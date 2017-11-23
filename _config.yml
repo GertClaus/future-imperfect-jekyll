@@ -1,6 +1,6 @@
 # Details
 title:       Gert CLS
-description: Schrijfsels van een social media keyboardninja
+description: Website description that appears in the side bar...
 url:         http://gertclaus.github.io
 baseurl:     
 
@@ -8,7 +8,7 @@ baseurl:
 author:
   name:      'Gert Clause'
 
-paginate:    3
+paginate:    5
 paginate_path: "/:num/"
 
 # Permalinks
